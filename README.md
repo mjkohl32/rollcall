@@ -10,4 +10,3 @@ Instructions
 * Fork this repository.
 * In your forked copy, add your information to rollcall.md.
 * Issue a pull request back to this repository.
-* Enjoy a hot beverage of your choice!
