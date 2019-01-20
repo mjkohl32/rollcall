@@ -8,3 +8,4 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Janet Davis [janetlndavis](https://github.com/janetlndavis)
+* Ian Stewart [ianstewart1](https://github.com/ianstewart1)
