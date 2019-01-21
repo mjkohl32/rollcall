@@ -9,3 +9,4 @@ Name and GitHub username/profile
 --------------------------------
 * Janet Davis [janetlndavis](https://github.com/janetlndavis)
 * Ian Stewart [ianstewart1](https://github.com/ianstewart1)
+* Angie Mead [meadap](https://github.com/meadap)
