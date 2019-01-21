@@ -8,5 +8,7 @@ _Note this repository is public._
 Name and GitHub username/profile
 --------------------------------
 * Janet Davis [janetlndavis](https://github.com/janetlndavis)
-* Ian Stewart [ianstewart1](https://github.com/ianstewart1)
 * Nathaniel Larson [larsonnd](https://github.com/larsonnd)
+* Angie Mead [meadap](https://github.com/meadap)
+* Ian Stewart [ianstewart1](https://github.com/ianstewart1)
+* Kimberly Taylor [kmargtaylor](https://github/kmargtaylor)
