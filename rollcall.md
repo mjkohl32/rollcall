@@ -12,3 +12,4 @@ Name and GitHub username/profile
 * Angie Mead [meadap](https://github.com/meadap)
 * Ian Stewart [ianstewart1](https://github.com/ianstewart1)
 * Kimberly Taylor [kmargtaylor](https://github/kmargtaylor)
+* Gavin James-Beckham [jamesbgd](https://github.com/jamesbgd)
